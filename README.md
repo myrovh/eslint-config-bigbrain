@@ -21,3 +21,12 @@ Shared rules extended with typescript-eslint rules.
 
 - shared
 - [@typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+
+## react
+
+Extends typescript rules with react and jsx rules.
+
+- typescript
+- [react](https://github.com/yannickcr/eslint-plugin-react)
+- [react-hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks)
+- [jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
