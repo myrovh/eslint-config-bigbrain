@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/myrovh/eslint-config-bigbrain/compare/v1.1.0...v1.1.1) (2020-09-09)
+
+
+### Bug Fixes
+
+* incorrect string for warning rules ([ef7100f](https://github.com/myrovh/eslint-config-bigbrain/commit/ef7100fdb80e58da0c3fbefabb26f35ba959f1cf))
+
 # [1.1.0](https://github.com/myrovh/eslint-config-bigbrain/compare/v1.0.0...v1.1.0) (2020-09-08)
 
 
