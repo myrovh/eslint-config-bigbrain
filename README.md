@@ -2,6 +2,8 @@
 
 Just my personal eslint config setup for regular javascript or typescript. I don't know why I called it bigbrain.
 
+This config isn't really designed with pure javascript projects in mind even though a javascript linter is shipped. The base shared config is included for linting of any regular `.js` files that might be included in a project.
+
 ## shared
 
 The shared config is used by all actually exported configs.
@@ -24,7 +26,11 @@ Shared rules extended with typescript-eslint rules.
 
 ## react
 
-Extends typescript rules with react and jsx rules.
+Extends typescript rules with react and jsx rules. Required plugins aren't included in the peerDependencies to avoid annoying warnings when you aren't using react rules.
+
+```sh
+yarn add -D eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
+```
 
 - typescript
 - [react](https://github.com/yannickcr/eslint-plugin-react)

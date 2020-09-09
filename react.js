@@ -15,7 +15,7 @@ module.exports = {
     "react/no-unescaped-entities": "error",
     "react/react-in-jsx-scope": "error",
     "react/void-dom-elements-no-children": "error",
-    "react/jsx-fragments": "warning",
+    "react/jsx-fragments": "warn",
     "react/jsx-key": "error",
   },
 };
