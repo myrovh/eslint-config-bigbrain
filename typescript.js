@@ -9,6 +9,9 @@ module.exports = {
     "prettier/@typescript-eslint",
   ],
   rules: {
+    // promise rules
+    "promise/prefer-await-to-then": "warn",
+    "promise/prefer-await-to-callbacks": "warn",
     // typescript rules
     "@typescript-eslint/consistent-type-imports": [
       "error",
