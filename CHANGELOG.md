@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/myrovh/eslint-config-bigbrain/compare/v1.1.1...v1.1.2) (2020-09-10)
+
+
+### Bug Fixes
+
+* add recommended-requiring-type-checking ([7f1aaa9](https://github.com/myrovh/eslint-config-bigbrain/commit/7f1aaa928d17241b465534b7ccbd3d080bf3f3c2))
+
 ## [1.1.1](https://github.com/myrovh/eslint-config-bigbrain/compare/v1.1.0...v1.1.1) (2020-09-09)
 
 
