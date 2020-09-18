@@ -22,6 +22,8 @@ module.exports = {
     "@typescript-eslint/prefer-optional-chain": "error",
     "@typescript-eslint/prefer-ts-expect-error": "error",
     // typescript extension rules
+    "no-unused-vars": "off",
+    "@typescript-eslint/no-unused-vars": ["warn", { ignoreRestSiblings: true }],
     "dot-notation": "off",
     "@typescript-eslint/dot-notation": "error",
     "no-magic-numbers": "off",
