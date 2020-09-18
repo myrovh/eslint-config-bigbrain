@@ -1,3 +1,15 @@
+# [1.2.0](https://github.com/myrovh/eslint-config-bigbrain/compare/v1.1.2...v1.2.0) (2020-09-18)
+
+
+### Bug Fixes
+
+* allow unused rest siblings ([56cfa61](https://github.com/myrovh/eslint-config-bigbrain/commit/56cfa611e441805131d2bc60230200a6a37a405a))
+
+
+### Features
+
+* add node shared config ([f693985](https://github.com/myrovh/eslint-config-bigbrain/commit/f6939854bd9d85451ce59425e08e7f39dbb96686))
+
 ## [1.1.2](https://github.com/myrovh/eslint-config-bigbrain/compare/v1.1.1...v1.1.2) (2020-09-10)
 
 
