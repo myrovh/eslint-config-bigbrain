@@ -18,6 +18,17 @@ The shared config is used by all actually exported configs.
 
 Regular javascript only eslint rules.
 
+## node
+
+Standard JS but with extra rules for node.
+
+- shared
+- [node](https://github.com/mysticatea/eslint-plugin-node)
+
+```sh
+yarn add -D eslint-plugin-node
+```
+
 ## typescript
 
 Shared rules extended with typescript-eslint rules.

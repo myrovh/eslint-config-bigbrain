@@ -2076,12 +2076,15 @@ __metadata:
     eslint-config-prettier: ^6.11.0
     eslint-plugin-import: ^2.22.0
     eslint-plugin-jsx-a11y: "*"
+    eslint-plugin-node: "*"
     eslint-plugin-react: "*"
     eslint-plugin-react-hooks: "*"
     eslint-plugin-sonarjs: ^0.5.0
     eslint-plugin-unicorn: ^21.0.0
   peerDependenciesMeta:
     eslint-plugin-jsx-a11y:
+      optional: true
+    eslint-plugin-node:
       optional: true
     eslint-plugin-react:
       optional: true
