@@ -45,7 +45,7 @@
     "eslint-plugin-node": "*",
     "eslint-plugin-react": "*",
     "eslint-plugin-react-hooks": "*",
-    "eslint-plugin-unicorn": "^21.0.0"
+    "eslint-plugin-unicorn": ">= 21"
   },
   "peerDependenciesMeta": {
     "eslint-plugin-jsx-a11y": {
