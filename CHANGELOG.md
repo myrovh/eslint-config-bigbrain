@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/myrovh/eslint-config-bigbrain/compare/v1.2.0...v2.0.0) (2020-10-29)
+
+
+### Bug Fixes
+
+* disable complexity check ([73ba70e](https://github.com/myrovh/eslint-config-bigbrain/commit/73ba70e1c053b29e6a2ccb215fd6562c7d2bff79))
+
+
+### Features
+
+* remove sonarjs ([07c9d2c](https://github.com/myrovh/eslint-config-bigbrain/commit/07c9d2ca980c9b439f287a93dc77fa2a695ab8bf))
+
+
+### BREAKING CHANGES
+
+* removed peer dependency
+
 # [1.2.0](https://github.com/myrovh/eslint-config-bigbrain/compare/v1.1.2...v1.2.0) (2020-09-18)
 
 
