@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/myrovh/eslint-config-bigbrain/compare/v2.0.0...v2.0.1) (2020-10-29)
+
+
+### Bug Fixes
+
+* unicorn peer version ([f0b143e](https://github.com/myrovh/eslint-config-bigbrain/commit/f0b143e46000e9d7ad6ec609141d7b3a7481813d))
+
 # [2.0.0](https://github.com/myrovh/eslint-config-bigbrain/compare/v1.2.0...v2.0.0) (2020-10-29)
 
 
