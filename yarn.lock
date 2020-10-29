@@ -63,19 +63,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/config-angular-type-enum@npm:^11.0.0":
+"@commitlint/config-conventional@npm:^11.0.0":
   version: 11.0.0
-  resolution: "@commitlint/config-angular-type-enum@npm:11.0.0"
-  checksum: b100bcb378ba80e1a845af01ddcae16bab87c64dd127c9477358d32b44c5326946e4a7adb70e65b8bbdf21b8c7f683fc39028dea1641bdf1b548257863bcb4f4
-  languageName: node
-  linkType: hard
-
-"@commitlint/config-angular@npm:^11.0.0":
-  version: 11.0.0
-  resolution: "@commitlint/config-angular@npm:11.0.0"
+  resolution: "@commitlint/config-conventional@npm:11.0.0"
   dependencies:
-    "@commitlint/config-angular-type-enum": ^11.0.0
-  checksum: d2a94345c4cebfae70ca3c9af0dbbd3849bdb8475c26661d64c5d3aa05ee8ce2282cac7133d3d10ca9661cb2fd3312c6c317054c7cc77bcff9e8ff0d7fae29b7
+    conventional-changelog-conventionalcommits: ^4.3.1
+  checksum: 2c5288d2686660976cb272c190704be14d7117c5723982b9ff586b2fb958260760d3d56506a702ab65f344cb95231b40c0d0e7248b657c450e5bb93c48bcee7a
   languageName: node
   linkType: hard
 
@@ -1489,6 +1482,17 @@ __metadata:
   languageName: node
   linkType: hard
 
+"conventional-changelog-conventionalcommits@npm:^4.3.1":
+  version: 4.4.0
+  resolution: "conventional-changelog-conventionalcommits@npm:4.4.0"
+  dependencies:
+    compare-func: ^2.0.0
+    lodash: ^4.17.15
+    q: ^1.5.1
+  checksum: ceafd0f505b7e1ec1c090c5f0bcd36a44aa53dcb8979667b24aa7aeada5a81585c088a11a1227b50ea1f3717e18f5aede3318ae8ebff9daed6af9a7c4b5f0aaf
+  languageName: node
+  linkType: hard
+
 "conventional-changelog-writer@npm:^4.0.0":
   version: 4.0.17
   resolution: "conventional-changelog-writer@npm:4.0.17"
@@ -2059,7 +2063,7 @@ __metadata:
   resolution: "eslint-config-bigbrain@workspace:."
   dependencies:
     "@commitlint/cli": ^11.0.0
-    "@commitlint/config-angular": ^11.0.0
+    "@commitlint/config-conventional": ^11.0.0
     "@commitlint/prompt-cli": ^11.0.0
     "@semantic-release/changelog": ^5.0.1
     "@semantic-release/git": ^9.0.0
