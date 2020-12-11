@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/myrovh/eslint-config-bigbrain/compare/v2.0.1...v2.0.2) (2020-12-11)
+
+
+### Bug Fixes
+
+* update dependencies + loosen peer dep requirements ([1d9d5d2](https://github.com/myrovh/eslint-config-bigbrain/commit/1d9d5d294e064ebf4a3bb02ef3da4a673efe60ae))
+
 ## [2.0.1](https://github.com/myrovh/eslint-config-bigbrain/compare/v2.0.0...v2.0.1) (2020-10-29)
 
 
