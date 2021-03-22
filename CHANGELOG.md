@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/myrovh/eslint-config-bigbrain/compare/v2.0.2...v2.1.0) (2021-03-22)
+
+
+### Features
+
+* replace yarn 2 with npm ([d8f1b26](https://github.com/myrovh/eslint-config-bigbrain/commit/d8f1b26a27d0e3daeb992e5a7efd7b3511c4f0bc))
+
 ## [2.0.2](https://github.com/myrovh/eslint-config-bigbrain/compare/v2.0.1...v2.0.2) (2020-12-11)
 
 
